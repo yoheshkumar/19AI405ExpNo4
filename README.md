@@ -1,7 +1,7 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: SUDHAKAR K
-## Register Number: 212222240107
+## Name: YOHESH KUMAR R.M
+## Register Number: 212222240118
 
 ## Aim:
 
